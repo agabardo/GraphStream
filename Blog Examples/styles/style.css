@@ -1,0 +1,18 @@
+graph {
+	fill-color: rgb(225,225,225); /* A bit of gray!*/
+}
+edge {
+	size:2px;
+	/*shape:cubic-curve;*/
+	/*shape:blob;*/
+	/*fill-color: rgb(127,0,55);*/
+}
+
+node{
+	/*size:40px;*/
+	text-size:16px;
+	text-color:rgb(255,255,255);
+	stroke-mode:plain;
+	stroke-width:2px;
+	stroke-color:#FFF8;
+}
