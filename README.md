@@ -9,5 +9,5 @@ Please keep in mind that the examples using the GraphStream Library must include
 You can find more information about GraphStream at their website: http://graphstream-project.org/
 
 
-<img src=“http://www.novatec.com.br//livros/analiseredessociais/capa_ampliada9788575224175.jpg” alt=“”/>
+<img src=“http://www.novatec.com.br/livros/analiseredessociais/capa_ampliada9788575224175.jpg” alt=“”/>
 
