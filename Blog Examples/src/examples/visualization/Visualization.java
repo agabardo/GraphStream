@@ -15,7 +15,7 @@ import org.graphstream.stream.GraphParseException;
  */
 public class Visualization {
 
-	//Please notice, I am using a STATIC object just for an small example.
+	//Please notice, I am using a STATIC object just for this small example.
 	//Use the proper object declarations and constructors when using it in the real world! :-)
 	private static Graph Karate = new SingleGraph("Karate");
 	
